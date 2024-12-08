@@ -1,0 +1,60 @@
+genre,frequency
+pop,428
+"hip hop, pop",277
+"hip hop, pop, R&B",244
+"pop, Dance/Electronic",221
+"pop, R&B",178
+hip hop,124
+"hip hop, pop, Dance/Electronic",78
+rock,58
+"rock, pop",43
+Dance/Electronic,41
+"rock, metal",38
+"pop, latin",28
+"pop, rock",26
+set(),22
+"hip hop, Dance/Electronic",16
+latin,15
+"pop, rock, metal",14
+"hip hop, pop, latin",14
+"pop, rock, Dance/Electronic",13
+R&B,13
+country,10
+metal,9
+"hip hop, pop, rock",9
+"rock, pop, Dance/Electronic",8
+"pop, country",8
+"pop, Folk/Acoustic",8
+"pop, R&B, Dance/Electronic",6
+"rock, pop, metal",4
+"hip hop, pop, R&B, latin",3
+"hip hop, pop, R&B, Dance/Electronic",3
+"hip hop, R&B",3
+"rock, blues, latin",2
+"rock, blues",2
+"pop, rock, Folk/Acoustic",2
+"pop, easy listening, jazz",2
+"hip hop, rock, pop",2
+"World/Traditional, rock, pop",2
+"World/Traditional, rock",2
+"World/Traditional, pop, Folk/Acoustic",2
+"World/Traditional, hip hop",2
+"Folk/Acoustic, pop",2
+"rock, pop, metal, Dance/Electronic",1
+"rock, easy listening",1
+"rock, classical",1
+"rock, R&B, Folk/Acoustic, pop",1
+"rock, Folk/Acoustic, pop",1
+"rock, Folk/Acoustic, easy listening",1
+"rock, Dance/Electronic",1
+"pop, easy listening, Dance/Electronic",1
+"pop, R&B, easy listening",1
+"hip hop, pop, country",1
+"hip hop, latin, Dance/Electronic",1
+"hip hop, country",1
+easy listening,1
+"country, latin",1
+"World/Traditional, pop",1
+"World/Traditional, Folk/Acoustic",1
+"Folk/Acoustic, rock, pop",1
+"Folk/Acoustic, rock",1
